@@ -1,0 +1,82 @@
+WARNING! IF YOU ARE PRONE TO SEIZURES
+YOU MAY ENCOUNTER FLASHING GRAPHIC.
+PLEASE EXIT CAREFULLY.
+ 
+ 
+ 
+ 
+An flashy "Interactive" console program about Movement/STATE
+ ____________
+|            &
+|  Play (1)  &
+|            &
+ ^^^^^^^^^^^^`
+ _____________
+|             &
+| Credits (2) &
+|             &
+ ^^^^^^^^^^^^^`
+ _______________
+|               &
+|  Options (3)  &
+|               &
+ ^^^^^^^^^^^^^^^`
+ ____________
+|            &
+|  Exit (4)  &
+|            &
+ ^^^^^^^^^^^^`
+Type:
+
+WARNING! IF YOU ARE PRONE TO SEIZURES
+YOU MAY ENCOUNTER FLASHING GRAPHIC IN:
+
+Credits:
+,=======================
+|-|-|-|-|-|-|-|-|-|-|-|#
+||-|-|TyagaGersonW-|-|-#
+|-|-|-|-|-|-|-|-|-|-|-|#
+^^^^^^^^^^^^^^^^^^^^^^^`
+ ____________
+|            &
+|  Back (0)  &
+|            &
+ ^^^^^^^^^^^^`
+ Type:
+
+ ###$$$###$$$
+ ###$$$###$$$
+ ###$$$###$$$
+ $$$###$$$###
+ $$$###$$$###
+ $$$###$$$##1
+
+ ###%%%###%%%
+ ###%%%###%%%
+ ###%%%###%%%
+ %%%###%%%###
+ %%%###%%%###
+ %%%###%%%##0
+
+ options:
+  
+ ____________
+|            &
+|  Back (0)  &
+|            &
+ ^^^^^^^^^^^^`
+speed       (1):
+
+pause every (2):
+
+paused
+ ____________
+|            &
+|  Back (0)  &
+|            &
+ ^^^^^^^^^^^^`
+ ____________
+|            &
+| Resume (1) &
+|            &
+ ^^^^^^^^^^^^`
